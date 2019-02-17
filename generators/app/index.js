@@ -8,7 +8,7 @@ module.exports = yeoman.Base.extend({
   prompting: function () {
     // Have Yeoman greet the user.
     this.log(yosay(
-      'Welcome to the striking ' + chalk.red('generator-fei-nodejs') + ' generator!'
+      'Welcome to the striking ' + chalk.red('generator-slate-plugin') + ' generator!'
     ));
 
     var prompts = [{

@@ -39,15 +39,8 @@
     "yeoman-generator-helper": "github:afeiship/yeoman-generator-helper",
     "yeoman-test": "^1.0.0"
   },
-  "eslintConfig": {
-    "extends": "xo-space",
-    "env": {
-      "mocha": true
-    }
-  },
   "repository": "git@github.com:afeiship/generator-slate-plugin.git",
   "scripts": {
-    "prepublish": "gulp prepublish",
     "test": "gulp"
   },
   "license": "MIT"
