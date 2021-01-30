@@ -4,5 +4,5 @@
 
 ## installation
 ```bash
-npm install -S @scope/<%=project_name%>
+npm install -S @<%=scope%>/<%=project_name%>
 ```
