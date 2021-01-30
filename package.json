@@ -1,5 +1,5 @@
 {
-  "name": "generator-slate-plugin",
+  "name": "@jswork/generator-slate-plugin",
   "version": "1.0.0",
   "description": "Yeoman generator for slate plugin.",
   "homepage": "https://github.com/afeiship/generator-slate-plugin",
