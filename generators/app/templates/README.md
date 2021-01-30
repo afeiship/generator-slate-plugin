@@ -2,12 +2,7 @@
 > <%=description%>
 
 
-## install:
+## installation
 ```bash
-npm install -S afeiship/<%=project_name%> --registry=https://registry.npm.taobao.org
-```
-
-## usage:
-```js
-//DOCS here!
+npm install -S @scope/<%=project_name%>
 ```
