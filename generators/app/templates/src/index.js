@@ -9,7 +9,6 @@ export default {
       return jsx('text', { italic: true }, children);
     }
   },
-  // to-html
   exporter: (node, children) => {
     if (!children) {
       if (node.italic) {
