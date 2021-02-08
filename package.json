@@ -22,6 +22,7 @@
   "dependencies": {
     "@jswork/next": "^1.0.5",
     "@jswork/next-registry-choices": "^1.0.1",
+    "@jswork/next-slate-plugin": "^1.0.14",
     "@jswork/yeoman-generator-helper": "^1.0.3",
     "chalk": "^4.1.0",
     "yeoman-generator": "^4.12.0",
