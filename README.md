@@ -10,5 +10,5 @@ npm install -g afeiship/generator-slate-plugin
 Then generate your new project:
 
 ```bash
-yo slate-plugin
+yo @jswork/slate-plugin
 ```
