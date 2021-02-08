@@ -1,4 +1,4 @@
-const yoHelper = require('@jsowkr/yeoman-generator-helper');
+const yoHelper = require('@jswork/yeoman-generator-helper');
 
 require('@jswork/next-registry-choices');
 
